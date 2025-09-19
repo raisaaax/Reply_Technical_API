@@ -1,4 +1,4 @@
-//arrays holding users and payments
+//Arrays holding users and payments
 const users = [];
 const payments = [];
 

@@ -1,6 +1,6 @@
 # Reply Technical Assignment - Video Streaming Service API
 
-This project is a backend API build with Node.js and Express.js for a video streaming service. It handles user registration with validation, and payment validation. The application is thoroughly tested using Jest and Supertest for automated testing. A Postman collection is included for manual testing. 
+This project is a backend API built with Node.js and Express.js for a video streaming service. It handles user registration with validation, and payment validation. The application is thoroughly tested using Jest and Supertest for automated testing. A Postman collection is included for manual testing. 
 
 ## App Overview  
 ### User Endpoints
@@ -32,7 +32,7 @@ Running command "node -v" in the terminal allows you to check if node is present
 Node can be installed from: https://nodejs.org/en/download
 
 ### 2.Dependencies
-Unzip the file and set the root directory to Raisa_Silea_Technical_Assignment_Reply .
+Unzip the file and navigate into the project root folder: cd Raisa_Silea_Technical_Assignment_Reply .
 
 Then install required packages using:
 npm install
